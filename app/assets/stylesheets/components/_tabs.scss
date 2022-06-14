@@ -1,0 +1,12 @@
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  background-color: $white;
+  border-bottom: 2px solid  $final-green;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.nav-tabs {
+  border: none;
+}
