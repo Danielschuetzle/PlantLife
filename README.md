@@ -1,1 +1,4 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+During our final Week in the Le wagon Bootcamp we created the Plantlife App.
+
+Check it out over this link:
+https://www.plantlife4life.xyz
